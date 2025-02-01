@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+background-color:#bbdffb;
+}
+h2{
+
+text-align:center;
+padding:20px;
+background-color:#d7baff;
+font-family:Calibri;
+background-color: #90cbf9;
+}
+
+footer{
+
+text-align:center;
+margin-top: 30px;
+padding:5px;
+background-color:#bbdffb;
+font-family:Calibri;
+
+}
+
+section{
+
+text-align:center;
+padding:5px;
+margin-left: 130px;
+background-color:#bbdffb;
+font-family:Calibri;
+
+}
+
+#elm{
+text-align:center;
+background-color:#d7baff;
+font-family:Calibri;
+background-color: #90cbf9;
+	border-radius: 20px;
+	border-color: #64b7f6;
+	position: relative;
+	top: 40px;
+	margin-top: -40px;
+	margin: 18px;
+	display: inline-block;
+}
+.fan{
+	border-color: transparent;
+}
+.bor{
+	border-radius: 15px;
+}
+
+#sanat{
+	text-align:center;
+background-color:#d7baff;
+font-family:Calibri;
+background-color: #90cbf9;
+	border-radius: 20px;
+	border-color: #64b7f6;
+	margin: 18px;
+	display: inline-block;
+}
+#daro{
+	
+	text-align:center;
+background-color:#d7baff;
+font-family:Calibri;
+background-color: #90cbf9;
+	border-radius: 20px;
+	border-color: #64b7f6;
+	position: relative;
+	top: 40px;
+	margin: 18px;
+	display: inline-block;
+}
+#ICT{
+	
+text-align:center;
+background-color:#d7baff;
+font-family:Calibri;
+background-color: #90cbf9;
+	border-radius: 20px;
+	border-color: #64b7f6;
+	position: relative;
+	top: 40px;
+	margin: 18px;
+	display: inline-block;
+}
+#hava{
+	text-align:center;
+background-color:#d7baff;
+font-family:Calibri;
+background-color: #90cbf9;
+	border-radius: 20px;
+	border-color: #64b7f6;
+	position: relative;
+	
+	margin: 18px;
+	display: inline-block;
+}
+#nezami{
+	text-align:center;
+background-color:#d7baff;
+font-family:Calibri;
+background-color: #90cbf9;
+	border-radius: 20px;
+	border-color: #64b7f6;
+	position: relative;
+	top: 40px;
+	margin: 18px;
+	display: inline-block;
+}
